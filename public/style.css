@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+.imgbg__hero{
+    width: 100%;
+    height: auto;
+    opacity: 0.7;
+}
+
+.hero__item{
+    position: absolute;
+    color: #ffffff;
+    top: 40%;
+    right: 40%;
+}
+.hero__form{
+    position: absolute;
+    top: 20rem;
+    color: rgb(255, 255, 255);
+    left: 40%;
+    width: 300px;
+    
+}
+.hero__item--button{
+   
+   text-decoration: none;
+   color: rgb(0, 0, 0);
+   background-color: rgb(255, 255, 255);
+   border-radius: 15px;
+   border: none;
+}
+
+.card-body{
+    color: #000;
+}
